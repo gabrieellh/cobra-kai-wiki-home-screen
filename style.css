@@ -24,11 +24,11 @@ section div img:hover {
     transform: scale(1.1);
 }
 
+/*animation*/
+
 main section {
     animation: fromTop .7s backwards;
 }
-
-/*animation*/
 
 @keyframes fromTop {
     from {
