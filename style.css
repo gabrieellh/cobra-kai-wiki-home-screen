@@ -12,9 +12,9 @@ h1 {
     font-size: 25px;    
     font-family: Georgia, 'Times New Roman', Times, serif; }
 
-    p {
-        color: white;
-    }
+p {
+     color: white;
+}
 
 section div {
     transition: transform .5s;
